@@ -6,11 +6,17 @@ MedicaInsure is a medical insurance provider. Leveraging customer information is
 Attribute information:
 
 age: age of the policyholder
+
 sex: gender of the policyholder
+
 bmi: Body Mass Index of the policyholder
+
 children: number of children of the policyholder
+
 smoker: whether the policyholder is a smoker or not
+
 region: region where the policyholder belongs to
+
 charges: premium charged to the policyholder
  
 
